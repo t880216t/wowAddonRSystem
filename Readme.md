@@ -9,11 +9,11 @@
 
 # 实现效果
 
-![]('https://github.com/t880216t/wowAddonRSystem/gitImage/home.jpg')
+![](https://github.com/t880216t/wowAddonRSystem/blob/master/gitImage/home.jpg)
 
 # 架构
 
-![]('https://github.com/t880216t/wowAddonRSystem/gitImage/luawow.png')
+![](https://github.com/t880216t/wowAddonRSystem/blob/master/gitImage/luawow.png)
 
 # 功能
 
