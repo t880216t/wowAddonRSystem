@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c34fc65-3882-47ce-8d72-61a60bbefe53" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1X983yn2SsIBMuYGtSYUUWekFkO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\legacywow\Interface\AddOns\RSystem" />
+      <recent name="E:\legacywow\Interface\AddOns\RSystem\Libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c34fc65-3882-47ce-8d72-61a60bbefe53" name="Default Changelist" comment="" />
+      <created>1580446754777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580446754777</updated>
+      <workItem from="1580446756015" duration="35019000" />
+      <workItem from="1580515435595" duration="42308000" />
+      <workItem from="1580612358023" duration="36146000" />
+      <workItem from="1580658255886" duration="7426000" />
+      <workItem from="1580691324023" duration="2602000" />
+      <workItem from="1580728087795" duration="10969000" />
+      <workItem from="1580812092821" duration="9988000" />
+      <workItem from="1580869317859" duration="16146000" />
+      <workItem from="1580905443647" duration="8754000" />
+      <workItem from="1580914334441" duration="1021000" />
+      <workItem from="1580949890636" duration="35191000" />
+      <workItem from="1581040645557" duration="28343000" />
+      <workItem from="1581127316182" duration="599000" />
+      <workItem from="1581130020100" duration="9092000" />
+      <workItem from="1581141253718" duration="739000" />
+      <workItem from="1581162808466" duration="1530000" />
+      <workItem from="1581167811038" duration="1546000" />
+      <workItem from="1581223435610" duration="599000" />
+      <workItem from="1581493906277" duration="2099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

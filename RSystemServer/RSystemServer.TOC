@@ -1,0 +1,11 @@
+## Interface: 30300
+## Version: 0.1
+## Title: Reward System Server
+## Author: 小土
+## Notes: 悬赏奖励系统服务端.
+## SavedVariables: RSystemServerDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+RSystemServer.lua

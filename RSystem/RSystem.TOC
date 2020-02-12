@@ -1,0 +1,11 @@
+## Interface: 30300
+## Version: 0.1
+## Title: Reward System
+## Author: 小土
+## Notes: 悬赏奖励系统.
+## SavedVariables: RSystemDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+system.xml

@@ -1,0 +1,19 @@
+<Ui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ E:\repos\Duowan-Work\InterfaceBLZ-TW\FrameXML\UI.xsd" xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="RSystem.lua"/>
+    <Frame name="moneyInputFrame" hidden="true" inherits="MoneyInputFrameTemplate">
+        <Anchors>
+            <Anchor point="Center">
+                <Offset>
+                    <AbsDimension x="3" y="-2"/>
+                </Offset>
+            </Anchor>
+        </Anchors>
+        <Scripts>
+            <OnLoad>
+                MoneyInputFrame_SetOnValueChangedFunc(self, function()
+                    UserChangedRequireMoney()
+                end);
+            </OnLoad>
+        </Scripts>
+    </Frame>
+</Ui>
